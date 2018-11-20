@@ -121,7 +121,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
 | [NFL](https://nfl.taleo.net/careersection/nfl_ex/jobdetail.ftl?job=1800005W&lang=en)  | NY | Present ||
 | [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
-| [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
+| [Noblis](https://careers.noblis.org/featured/internships/)  | VA, MD, WV, TX | Present | Open to full-time undergraduate, Master's, and PhD students |
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [OpenAI](https://jobs.lever.co/openai/f9f7f8f3-90cc-41f3-a5b7-8692ab5da025)  | CA | Present | Summer Internship |
